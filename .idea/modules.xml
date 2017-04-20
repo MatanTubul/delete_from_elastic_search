@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../ETL/.idea/ETL.iml" filepath="$PROJECT_DIR$/../ETL/.idea/ETL.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ExtractMSISDN/.idea/ExtractMSISDN.iml" filepath="$PROJECT_DIR$/../ExtractMSISDN/.idea/ExtractMSISDN.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../FCMServer/.idea/FCMServer.iml" filepath="$PROJECT_DIR$/../FCMServer/.idea/FCMServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Reports/.idea/Reports.iml" filepath="$PROJECT_DIR$/../Reports/.idea/Reports.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../UnitTests/.idea/UnitTests.iml" filepath="$PROJECT_DIR$/../UnitTests/.idea/UnitTests.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../drain-server-upgraded/.idea/drain-server-upgraded.iml" filepath="$PROJECT_DIR$/../drain-server-upgraded/.idea/drain-server-upgraded.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/elastic_search_delete.iml" filepath="$PROJECT_DIR$/.idea/elastic_search_delete.iml" />
+    </modules>
+  </component>
+</project>
